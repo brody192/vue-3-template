@@ -11,7 +11,9 @@ tags:
 
 # Vue 3 + TypeScript + Vite + Caddy
 
-This template should help get you started developing with Vue and TypeScript in Vite. The template uses Vue 3 With TypeScript
+This template should help get you started developing with Vue and TypeScript in Vite. The template uses Vue 3 With TypeScript.
+
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/Qh0OAU?referralCode=ySCnWl)
 
 ## ✨ Features
 
