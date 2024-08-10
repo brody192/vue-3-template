@@ -9,7 +9,7 @@
 	}
 	servers {
 		# server options
-		trusted_proxies static private_ranges # trust railway's proxy
+		trusted_proxies static private_ranges 100.0.0.0/8 # trust railway's proxy
 	}
 }
 
